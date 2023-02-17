@@ -1,2 +1,3 @@
-# animalsRegister
-Created with CodeSandbox
+# Quasar App
+
+> WIP
